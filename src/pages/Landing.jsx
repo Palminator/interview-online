@@ -54,6 +54,7 @@ const Landing = () => {
   return (
     <div className=" bg-[#BED7DC] flex h-screen justify-center items-center">
       <div className="text-4xl font-bold flex flex-col gap-9">
+        <div>https://ezez.lol/m/สวัสดีจุ๊กกู๊วววววววววววววว</div>
         <span className=" transition-all duration-300 ease-in-out drop-shadow-sm">
           {currentWord}
         </span>
